@@ -1,5 +1,9 @@
 # RedditMigrationSwift
 
+## Features
+
+* Migrate saved post between 2 Reddit accounts
+
 ## Requirements
 
 * Xcode 13.2
