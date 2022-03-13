@@ -1,0 +1,7 @@
+import RMCore
+
+let config = Config(
+    sourceUser: .init(username: "", password: ""),
+    destinationUser: .init(username: "", password: ""),
+    clientCredentials: .init(identifier: "", secret: "")
+)
